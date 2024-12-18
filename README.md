@@ -8,11 +8,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **React,Node.js**
+- 🌱 I’m currently learning **Kotlin,Node.js**
 
-- 👯 I’m looking to collaborate on **AI/ML Projects**
-
-- 🤝 I’m looking for help with [intel_project](https://github.com/upendrasingh-63/intel_project)
+- 👯 I’m looking to collaborate on **App Development Projects**
 
 - 📫 How to reach me **pro.upendra63@gmail.com**
 
